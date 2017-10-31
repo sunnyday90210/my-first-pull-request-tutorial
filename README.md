@@ -11,7 +11,7 @@ If you are new to Git and would like to try cloning a repo and making a pull req
   - Go to your repo where you fork the project. 
   - Hit the clone button on your forked repo and copy the link. 
   - On your (terminal) or (command prompt), type "git clone (put the link here)".
-  - In the index file, look for the <ol class=”fistRepo” tag. Then insert a 'li' tag with your link to your profile save the changes.
+  - In the index file, look for the <li class="list-group-item">Name goes here</li> tag. Then insert or change an 'li' tag with your link to your profile save the changes.
   - Afterward, on your (terminal) or (command prompt), type "git add index.html"; then 'git commit -m "type a message". (Example “added my profile to index”).
   - Now Push the commit. Type ("git push origin master"). 
   - Go back to the your repo. 
